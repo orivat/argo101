@@ -3,7 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
-namePrefix: dhpup-
+namePrefix: orivat-
 images:
 - name: library/nginx
-  newTag: 1.21.6
+  newTag: 1.21.623
