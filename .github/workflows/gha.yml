@@ -16,6 +16,8 @@ on:
     branches:
       - 'main'
 
+permissions:
+  contents: write
 jobs:
   docker:
     runs-on: ubuntu-latest
