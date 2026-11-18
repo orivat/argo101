@@ -6,4 +6,4 @@ resources:
 namePrefix: orivat-
 images:
 - name: library/nginx
-  newTag: 1.21.623
+  newTag: 1.21.6
